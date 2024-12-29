@@ -1,0 +1,14 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "backend code",
+  "main": "index.js",
+  "scripts": {
+   "start" : "node index.js"
+  },
+  "author": "sumi kumari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
